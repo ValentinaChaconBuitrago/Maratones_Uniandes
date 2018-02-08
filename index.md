@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ValentinaChaconBuitrago/Ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="100" height="500">
+<img src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="150">
 
 ## Class Rankings
 
@@ -17,15 +17,15 @@ Syntax highlighted code block
 ## Marks
 ```markdown
 
-__Eventos Oficiales__
-    - Participación **1 punto**
-    - Problemas resueltos **3 puntos**
-    - Primera solución a un problema **1 punto**
-    - Primera solución **3 puntos**
-    - Solucion de todos los problemas **5 puntos**
-__Eventos Remotos__
-    - Problemas resueltos **2 puntos**
-    - Solución de todos los problemas **5 puntos**
+__Official Events__
+    - Participación **1 point**
+    - Problemas resueltos **3 points**
+    - Primera solución a un problema **1 point**
+    - Primera solución **3 points**
+    - Solucion de todos los problemas **5 points**
+__Remote Events__
+    - Problemas resueltos **2 points**
+    - Solución de todos los problemas **5 points**
     
 ```
 ## Resources
@@ -40,7 +40,7 @@ __Eventos Remotos__
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png| width=100)
+[Link](url) and ![Image](scr)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
