@@ -1,5 +1,6 @@
 ## Welcome to Maratones_Uniandes
 
+<img style="float: left" src= "https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90"/>
 You can use the [editor on GitHub](https://github.com/ValentinaChaconBuitrago/Maratones_Uniandes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -13,18 +14,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <tr><td>
 
 |Position| Name | Points |
-|--|--|--|
+|--------|------|--------|
 1|Valentina Chacón| 20
-2|J|3
+2|J |3
 3|k|12
 4|f|32
 5|Oli|10000
 
-
 </td><td>
 
 |Position| Name | Points |
-|--|--|--|
+|--------|------|--------|
 11|Valentina Chacón| 20
 12|J|3
 13|k|12
@@ -67,8 +67,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<img style="float: left" src= "https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90"/>
-hola Aqui va el texto de la derecha
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValentinaChaconBuitrago/Maratones_Uniandes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
