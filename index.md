@@ -15,10 +15,18 @@ Syntax highlighted code block
 ## Marks
 ```markdown
 
-
-
+__Eventos Oficiales__
+    - Participación **1 punto**
+    - Problemas resueltos **3 puntos**
+    - Primera solución a un problema **1 punto**
+    - Primera solución **3 puntos**
+    - Solucion de todos los problemas **5 puntos**
+__Eventos Remotos__
+    - Problemas resueltos **2 puntos**
+    - Solución de todos los problemas **5 puntos**
+    
 ```
-## Marks
+## Resources
 
 ### Header 3
 
