@@ -1,6 +1,6 @@
 ## Welcome to Maratones_Uniandes
 
-<img style="float: left" src= "https://uniandes.edu.co/sites/default/files/logo-uniandes.png" alt="alt text" width="300" height="90"/>
+<img style="float: left" src= "https://uniandes.edu.co/sites/default/files/logo-uniandes.png" alt="alt text" width="200" height="110"/>
      If you are curious, disciplined and are passionate about problem solving through computer programming this is the place for you. Weekly meetings are held at Room ML_207. Welcome to our community. 
 
 ## Class Rankings
