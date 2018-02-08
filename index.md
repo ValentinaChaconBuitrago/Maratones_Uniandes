@@ -19,11 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3|k|12
 4|f|32
 5|Oli|10000
-6|via|12000
-7|Valentina Chacón| 20
-8|J|3
-9|k|12
-10|f|32
+
 
 </td><td>
 
@@ -34,11 +30,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 13|k|12
 14|f|32
 15|Oli|10000
-16|via|12000
-17|Valentina Chacón| 20
-18|J|3
-19|k|12
-20|f|32
 
 </td></tr> </table>
 
@@ -76,7 +67,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<img style="float: right" src= "https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90"/>
+<img style="float: left" src= "https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90"/>
 hola Aqui va el texto de la derecha
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValentinaChaconBuitrago/Maratones_Uniandes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
