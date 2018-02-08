@@ -31,6 +31,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |Table 1|Table 2|
 |--|--|
 |<table> <tr><th>Table 1 Heading 1</th><th>Table 1 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
+## Ran
+|Position| Name | Points |
+|--------|------|--------|
+1|Valentina Chacón| 20
+2|J |3
+1|Valentina Chacón| 20
+2|J |3
+1|Valentina Chacón| 20
+2|J |3
+1|Valentina Chacón| 20
+2|J |3
+1|Valentina Chacón| 20
+2|J |3
 
 ## Marks
 ```markdown
