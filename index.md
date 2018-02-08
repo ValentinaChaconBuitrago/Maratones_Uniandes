@@ -6,6 +6,25 @@
 
 ## Class Rankings
 
+Position| Name | Points 
+--------|------|--------
+1|Valentina Chacón| 20
+2|J |3
+3|J |3
+4|J |3
+5|J |3
+6|J |3
+7|J |3
+8|J |3
+9|J |3
+10|J |3
+11|J |3
+12|J |3
+13|J |3
+14|J |3
+15|J |3
+
+
 <table>
 <tr><th>Ranking </th><th>Ranking</th></tr>
 <tr><td>
@@ -81,12 +100,3 @@ __Remote Events__
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-|<img src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90">| Hola aqui va el texto de la derecha
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValentinaChaconBuitrago/Maratones_Uniandes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
