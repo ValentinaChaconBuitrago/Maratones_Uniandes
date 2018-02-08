@@ -1,6 +1,6 @@
 ## Welcome to Maratones_Uniandes
 
-<img style="float: left" src= "https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="90"/>
+<img style="float: left" src= "https://uniandes.edu.co/sites/default/files/logo-uniandes.png" alt="alt text" width="300" height="90"/>
      If you are curious, disciplined and are passionate about problem solving through computer programming this is the place for you. Weekly meetings are held at Room ML_207. Welcome to our community. 
 
 ## Class Rankings
@@ -25,7 +25,7 @@ Position| Name | Points
 14|J |3
 15|J |3
 
-For further details go to: [Complete Ranking and  Class Assistance](https://uniandes-my.sharepoint.com/:x:/g/personal/v_chacon_uniandes_edu_co/EbU7_AjZSshDogA33htwDFEBQcUFYEl8qU_qAeUb0moDiA?e=ih83n4)
+For further details go to: [Complete Ranking and  Class Assistance](https://uniandes-my.sharepoint.com/:x:/g/personal/v_chacon_uniandes_edu_co/EbU7_AjZSshDogA33htwDFEBQcUFYEl8qU_qAeUb0moDiA?e=2mC9eE)
 
 
 ## Marks
@@ -45,11 +45,5 @@ __Remote Events__
 ## Resources
   
 
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](scr)
 
 
