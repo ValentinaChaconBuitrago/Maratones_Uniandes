@@ -8,14 +8,40 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Class Rankings
 
-Ranking| Name | Points                            
--------|--------------------|-------------
+<table>
+<tr><th>Ranking </th><th>Ranking</th></tr>
+<tr><td>
+
+|Position| Name | Points |
+|--|--|--|
 1|Valentina Chacón| 20
 2|J|3
 3|k|12
 4|f|32
 5|Oli|10000
 6|via|12000
+7|Valentina Chacón| 20
+8|J|3
+9|k|12
+10|f|32
+
+</td><td>
+
+|Position| Name | Points |
+|--|--|--|
+11|Valentina Chacón| 20
+12|J|3
+13|k|12
+14|f|32
+15|Oli|10000
+16|via|12000
+17|Valentina Chacón| 20
+18|J|3
+19|k|12
+20|f|32
+
+</td></tr> </table>
+
 
 ## Rankings
 
@@ -55,39 +81,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<table>
-<tr><th>Ranking </th><th>Ranking</th></tr>
-<tr><td>
-
-|Ranking| Name | Points |
-|--|--|--|
-1|Valentina Chacón| 20
-2|J|3
-3|k|12
-4|f|32
-5|Oli|10000
-6|via|12000
-7|Valentina Chacón| 20
-8|J|3
-9|k|12
-10|f|32
-
-</td><td>
-
-|Ranking| Name | Points |
-|--|--|--|
-1|Valentina Chacón| 20
-2|J|3
-3|k|12
-4|f|32
-5|Oli|10000
-6|via|12000
-7|Valentina Chacón| 20
-8|J|3
-9|k|12
-10|f|32
-
-</td></tr> </table>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValentinaChaconBuitrago/Maratones_Uniandes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
