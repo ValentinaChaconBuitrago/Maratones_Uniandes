@@ -9,8 +9,8 @@
 <table>
 <tr><th>Ranking </th><th>Ranking</th></tr>
 <tr><td>
-|Position| Name | Points |
-|--------|------|--------|
+Position| Name | Points 
+--------|------|--------
 1|Valentina Chacón| 20
 2|J |3
 2|J |3
@@ -19,8 +19,8 @@
 
 </td><td>
 
-|Position| Name | Points |
-|--------|------|--------|
+Position| Name | Points 
+--------|------|--------
 11|Valentina Chacón| 20
 12|J|3
 2|J |3
