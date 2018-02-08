@@ -17,6 +17,11 @@ Ranking| Name | Points
 5|Oli|10000
 6|via|12000
 
+## Rankings
+
+Rankings|Rankings
+
+
 ## Marks
 ```markdown
 
@@ -51,18 +56,36 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>Ranking </th><th>Ranking</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
+|Ranking| Name | Points |
 |--|--|--|
-|a| not b|and c |
+1|Valentina Chacón| 20
+2|J|3
+3|k|12
+4|f|32
+5|Oli|10000
+6|via|12000
+7|Valentina Chacón| 20
+8|J|3
+9|k|12
+10|f|32
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|Ranking| Name | Points |
+|--|--|--|
+1|Valentina Chacón| 20
+2|J|3
+3|k|12
+4|f|32
+5|Oli|10000
+6|via|12000
+7|Valentina Chacón| 20
+8|J|3
+9|k|12
+10|f|32
 
 </td></tr> </table>
 
