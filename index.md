@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/ValentinaChaconBuitrago/Ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="118">
+<img src="https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png" alt="alt text" width="300" height="110">
 
 ## Class Rankings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ranking| Name | Points
+-------|--------------------|-------------
+1|Valentina Chacón| 20
 
-
-Syntax highlighted code block
 
 
 ## Marks
