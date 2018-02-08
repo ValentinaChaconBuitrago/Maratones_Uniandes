@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/ValentinaChaconBuitrago/Ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Class Rankings
-```javascript
+
 <table>
 <tr><th>Ranking </th><th>Ranking</th></tr>
 <tr><td>
@@ -29,7 +29,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2|J |3
 
 </td></tr> </table>
-```
+
+for further details go to: [Link](https://uniandes-my.sharepoint.com/:x:/g/personal/v_chacon_uniandes_edu_co/EbU7_AjZSshDogA33htwDFEBQcUFYEl8qU_qAeUb0moDiA?e=ih83n4)
+
 ## Rankings
 
 |Table 1|Table 2|
