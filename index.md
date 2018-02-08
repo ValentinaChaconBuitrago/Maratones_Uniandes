@@ -3,9 +3,11 @@
 <img style="float: left" src= "https://uniandes.edu.co/sites/default/files/logo-uniandes.png" alt="alt text" width="200" height="110"/>
      If you are curious, disciplined and are passionate about problem solving through computer programming this is the place for you. Weekly meetings are held at Room ML_207. Welcome to our community. 
 
+
+
 ## Class Rankings
 
-  ### Top 15
+### Top 15
   
 Position| Name | Points 
 --------|------|--------
@@ -42,6 +44,8 @@ __Remote Events__
     - All problems solved **5 points**
     
 ```
+* __Official Events__: Class, CCPL circuit, face-to-face RPC
+
 ## Resources
   
 
