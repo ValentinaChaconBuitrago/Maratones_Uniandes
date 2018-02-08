@@ -14,12 +14,7 @@ Ranking| Name | Points
 2|J|3
 3|k|12
 4|f|32
-5|g|33
-6|h|21
-7|de|89
-8|se|100
-9|wa|9
-10|Oli|10000
+
 ## Marks
 ```markdown
 
