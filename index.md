@@ -38,7 +38,7 @@ __Eventos Remotos__
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png =100x250)
+[Link](url) and ![Image](https://static1.squarespace.com/static/552dc0ffe4b070a9e1a6a215/t/583336b8f5e23136c812bb2c/1516652591705/.png| width=100)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
