@@ -43,23 +43,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </td></tr> </table>
 
 
-## Rankings
-
-Rankings|Rankings
-
-
 ## Marks
 ```markdown
 
 __Official Events__
-    - Participación **1 point**
-    - Problemas resueltos **3 points**
-    - Primera solución a un problema **1 point**
-    - Primera solución **3 points**
-    - Solucion de todos los problemas **5 points**
+    - Participation **1 point**
+    - Solved Problem **3 points**
+    - First solution to a problem **1 point**
+    - First Solution **3 points**
+    - All problems solved **5 points**
 __Remote Events__
-    - Problemas resueltos **2 points**
-    - Solución de todos los problemas **5 points**
+    - Solved Problem **2 points**
+    - All problems solved **5 points**
     
 ```
 ## Resources
