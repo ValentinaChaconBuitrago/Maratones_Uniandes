@@ -11,7 +11,7 @@
 
 Position| Name  | Points 
 --------|-------------------|--------
-1| Valentina Chacón Buitrago| 3
+1| J| 3
 2|J |3
 3|J |3
 4|J |3
