@@ -51,7 +51,7 @@ __Remote Events__
 
 
 ## Resources
-```markdown
+
 
 __Codeforces__
 - Codeforces Calendar: [Codeforces Calendar](http://codeforces.com/calendar)
@@ -69,7 +69,7 @@ __Coursera__
 
 __edx__
 -Competitive programming techniques: [Coding competitions](https://www.edx.org/es/course/how-to-win-coding-competitions-secrets-of-champions)
-```
+
 
 
 
