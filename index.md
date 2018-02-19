@@ -55,17 +55,21 @@ __Remote Events__
 
 __Codeforces__
 
-- Codeforces Calendar: [Codeforces Calendar](http://codeforces.com/calendar)
-- Codeforces Gym: [Codeforces Gym](http://codeforces.com/gyms)
+   - Codeforces Calendar: [Codeforces Calendar](http://codeforces.com/calendar)
+   - Codeforces Gym: [Codeforces Gym](http://codeforces.com/gyms)
 
 
 __CodeChef__
 
--CodeChef Calendar: [CodeChef calendar](https://www.codechef.com/contests)
--Practice for Beginners: [CodeChef Beginners](https://www.codechef.com/problems/school)
--Easy Practice: [CodeChef Easy Practice](https://www.codechef.com/problems/easy/)
--Medium Practice: [CodeChef Medium Practice](https://www.codechef.com/problems/medium/)
--Hard Practice: [CodeChef Hard Practice](https://www.codechef.com/problems/hard/)
+   -CodeChef Calendar: [CodeChef calendar](https://www.codechef.com/contests)
+   
+   -Practice for Beginners: [CodeChef Beginners](https://www.codechef.com/problems/school)
+   
+   -Easy Practice: [CodeChef Easy Practice](https://www.codechef.com/problems/easy/)
+   
+   -Medium Practice: [CodeChef Medium Practice](https://www.codechef.com/problems/medium/)
+   
+   -Hard Practice: [CodeChef Hard Practice](https://www.codechef.com/problems/hard/)
 
 
 __Coursera__
