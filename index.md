@@ -11,7 +11,7 @@
 
 Position| Name  | Points 
 --------|-------------------|--------
-1| Juan Sebastian Sosa| 39
+1| Juan Sebastian Sosa| 40
 2| Pietro Ehrlich|16
 3| Lily Duque|15
 4|Christian Florez|13
