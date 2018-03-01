@@ -7,26 +7,20 @@
 
 ## Class Rankings
 
-### Top 15
+### Top 10
 
 Position| Name  | Points 
 --------|-------------------|--------
-1| Juan Sebastian Sosa| 18
-2| Manuel Alberto Lovera|4
-3|Camilo Andrés Montenegro |4
-4| Carlos Gabriel Peñaloza| 3
-5| Diego Agudelo |2
-6| Sergio Fabian Alvarez|2
-7| Nicolás Eduardo Cabrera|2
-8| Sergio Eduardo Cardenas|2
-9| Valentina Chacón|2
-10| Laura Paola Gamboa|2
-11| Juan Sebastian Garcia|2
-12| Juan Sebastian Gomez|2
-13| Juan Diego González |2
-14| Andrés Felipe Losada|2
-15| Nixon Fernando Ortiz |2
-
+1| Juan Sebastian Sosa| 27
+2| Lily Duque|11
+3|Stephanie Jiménez|9
+4| Valentina Chacón| 8
+5| Daniel Cuellar|8
+6| Gabriel Mejia|8
+7| Andrés Losada|7
+8| Manuel Lovera|7
+9| Carlos Peñalosa|6
+10| Pietro Ehrlich|5
 
 
 For further details go to: [Complete Ranking and  Class Assistance](https://uniandes-my.sharepoint.com/:x:/g/personal/v_chacon_uniandes_edu_co/EbU7_AjZSshDogA33htwDFEBQcUFYEl8qU_qAeUb0moDiA?e=2mC9eE)
