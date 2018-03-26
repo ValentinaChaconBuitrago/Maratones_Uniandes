@@ -11,16 +11,16 @@
 
 Position| Name  | Points 
 --------|-------------------|--------
-1| Juan Sebastian Sosa| 40
-2| Pietro Ehrlich|24
-3| Lily Duque|15
-4|Christian Florez|13
-5|Stephanie Jiménez|13
-6| Daniel Cuellar|11
-7| Valentina Chacón| 10
-8| Manuel Lovera|10
-9| Andrés Losada|9
-10| Diego Agudelo|6
+1| Juan Sebastian Sosa|92
+2| Lily Duque|37
+3| Sergio Álvarez|26
+4| Pietro Ehrlich|24
+5| Valentina Chacón|19
+6| Juan Sebastián Gómez|14
+7| Christian Flórez| 13
+8| Stephanie Jiménez|13
+9| Juan Félipe Ramos|13
+10| Daniel Cuellar|11
 
 For further details go to: [Complete Ranking and  Class Assistance](https://uniandes-my.sharepoint.com/:x:/g/personal/v_chacon_uniandes_edu_co/EbU7_AjZSshDogA33htwDFEBQcUFYEl8qU_qAeUb0moDiA?e=2mC9eE)
 
